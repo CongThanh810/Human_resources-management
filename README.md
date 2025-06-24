@@ -4,6 +4,7 @@ Hệ thống quản lý 2845 hồ sơ nhân viên với 28 cột thông tin chi 
 ![image](https://github.com/user-attachments/assets/f57fafd6-b7c5-4cbe-9deb-e8007a69ca90)
 ![image](https://github.com/user-attachments/assets/05e384f4-327b-49a5-a6d3-7f3b3ee5065b)
 ![image](https://github.com/user-attachments/assets/8d490421-21a8-43f7-8fd6-4cfe9f948a69)
+![image](https://github.com/user-attachments/assets/ef9c4f81-52f0-4f59-aaed-8af92b6bb6b9)
 
 
 
